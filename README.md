@@ -1,4 +1,4 @@
-p align="center">
+<p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,c,vim" />
   </a>
