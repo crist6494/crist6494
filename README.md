@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Cristian Morales 💻 </h1>
+<h3 align="center">A passionate Junior Developer </h3>
+
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,c,vim,git" />
