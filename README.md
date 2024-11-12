@@ -1,11 +1,11 @@
 <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&random=false&width=440&height=65&separator=%3C&lines=Welcome!!!!%3CHi%2C+I'm+Cmorales+;)" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=40&pause=1000&color=0CCFCB&background=A74A2C00&center=true&vCenter=true&width=800&height=65&separator=%3C&lines=Welcome+to+my+Github+repository%3CI%C2%B4m+Cmorales+;)" alt="Typing SVG" /></a>
 </div>
 
 ## About Me
 - :credit_card: My name is **Cristian Morales**
-- 👨‍🎓 Software Developer Student in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**.
-- 🖥️ Junior Full Stack
+- 👨‍🎓 Student in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**.
+- 🖥️ Junior Full Stack Developer
 - 🔭 I’m currently working on [Transcendence](https://github.com/jdomingu98/ft_transcendence)
 
 <br />
@@ -28,17 +28,24 @@ Skills and Knowledge Gained During My 42 Cursus Experience
 
 ## Skills
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="start">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,git,vscode,vim,bootstrap,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,python,django" />
+  </a>
+</p> 
+
+<h3 align="left">Tools:</h3>
+<p align="start">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,vscode,vim,docker,vite" />
   </a>
 </p> 
 
 <h3 align="left">Learning Technologies:</h3>
 <p align="start">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,angular,express,typescript" />
+    <img src="https://skillicons.dev/icons?i=react,angular,express,typescript, nodejs" />
   </a>
 </p> 
 
@@ -57,8 +64,13 @@ Skills and Knowledge Gained During My 42 Cursus Experience
 <p align="left">
   Feel free to reach out if you'd like to collaborate on projects, discuss development, or just chat about technology!
 </p>
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/cristian-morales-rojas/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristian-morales-rojas/" height="30" width="40" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/cristian-morales-rojas/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-</p>
+   &nbsp;&nbsp;&nbsp; 
+  <a href="mailto:moralesrojascr@gmail.com?Subject=Contacto%20desde%20GitHub." target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+</div>
+
