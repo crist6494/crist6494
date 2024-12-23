@@ -31,7 +31,7 @@ Skills and Knowledge Gained During My 42 Cursus Experience
 <h3 align="left">Languages:</h3>
 <p align="start">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,python,django" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,python" />
   </a>
 </p> 
 
@@ -45,7 +45,7 @@ Skills and Knowledge Gained During My 42 Cursus Experience
 <h3 align="left">Learning Technologies:</h3>
 <p align="start">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,angular,express,typescript, nodejs" />
+    <img src="https://skillicons.dev/icons?i=react,angular,express,typescript,nodejs,django" />
   </a>
 </p> 
 
