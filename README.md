@@ -6,7 +6,7 @@
 - :credit_card: My name is **Cristian Morales**
 - 👨‍🎓 Student in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**.
 - 🖥️ Junior Full Stack Developer
-- 🔭 I’m currently working on [Transcendence](https://github.com/jdomingu98/ft_transcendence)
+- 🔭 I’m currently working...
 
 <br />
 
